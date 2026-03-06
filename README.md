@@ -59,3 +59,11 @@ To validate the engineering workflows, a high-fidelity interface concept was des
   <img src="./ui-concepts/screen2.png" width="30%" alt="Emergency Report">
   <img src="./ui-concepts/screen3.png" width="30%" alt="AI Chat">
 </div>
+---
+
+## 📄 Full System Documentation
+For a complete deep-dive into the requirements engineering, full BPMN workflows, and comprehensive project documentation, you can review the full specification document:
+
+👉 **[Read the Full System Specification (PDF)](./docs/Red 911 .pdf)**
+
+---
