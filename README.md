@@ -62,8 +62,6 @@ To validate the engineering workflows, a high-fidelity interface concept was des
 ---
 
 ## 📄 Full System Documentation
-For a complete deep-dive into the requirements engineering, full BPMN workflows, and comprehensive project documentation, you can review the full specification document:
-
-👉 **[Read the Full System Specification (PDF)](./docs/Red911_System_Specification)**
+For a complete deep-dive into the requirements engineering, full BPMN workflows, and comprehensive project documentation, you can review the full specification document in docs section.
 
 ---
