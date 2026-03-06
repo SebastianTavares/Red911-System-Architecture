@@ -23,7 +23,6 @@ Click on each section to expand the architectural diagrams and technical flows.
 A highly normalized SQL schema designed to handle the complex relationships between citizens, emergency reports, medical profiles, and responding units.
 
 ![Database Schema](./architecture-diagrams/database.png) 
-**(Nota para ti: Sube la imagen de la página 25 de tu PDF aquí)**
 </details>
 
 <details>
@@ -32,7 +31,6 @@ A highly normalized SQL schema designed to handle the complex relationships betw
 UML Use Case mapping for 7 central modules, defining the interaction boundaries between the system and its users.
 
 ![Use Cases](./architecture-diagrams/use_cases.png)
-**(Nota para ti: Sube la imagen de la página 26 de tu PDF aquí)**
 </details>
 
 <details>
@@ -41,7 +39,6 @@ UML Use Case mapping for 7 central modules, defining the interaction boundaries 
 Logical workflow for the AI Assistant, detailing the decision tree for automated triage and the escalation protocol to human operators.
 
 ![AI Flow](./architecture-diagrams/ai_flow.png)
-**(Nota para ti: Sube la imagen de la página 21 de tu PDF aquí)**
 </details>
 
 ---
@@ -62,4 +59,3 @@ To validate the engineering workflows, a high-fidelity interface concept was des
   <img src="./ui-concepts/screen2.png" width="30%" alt="Emergency Report">
   <img src="./ui-concepts/screen3.png" width="30%" alt="AI Chat">
 </div>
-*(Nota para ti: Aquí pones 3 pantallazos bonitos de tu Figma, uno al lado del otro)*
